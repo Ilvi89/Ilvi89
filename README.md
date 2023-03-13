@@ -1,5 +1,5 @@
 
-# Hi there 👋 My name is I
+# Hi there 👋 My name is Ilya
 ### I'm 3rd year ITMO University Student from Saint-Petersburg, Russia
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white "Write to me!")](https://t.me/Ilvi89)
