@@ -1,6 +1,6 @@
 
 # Hi there 👋 My name is Ilya
-### I'm 3rd year ITMO University Student from Saint-Petersburg, Russia
+### I'm 3rd year ITMO University Student from Saint-Petersburg
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white "Write to me!")](https://t.me/Ilvi89)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilya.pizik89@gmail.com)
